@@ -1,6 +1,6 @@
 # first_assignment
 ### creating a table comprises of information of students 
 
-##tool
+## The language used
 -sql workbench
 
